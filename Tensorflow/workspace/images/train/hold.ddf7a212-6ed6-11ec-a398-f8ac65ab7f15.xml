@@ -1,0 +1,26 @@
+<annotation>
+	<folder>hold</folder>
+	<filename>hold.ddf7a212-6ed6-11ec-a398-f8ac65ab7f15.jpg</filename>
+	<path>C:\Projects\JupyterNotebook\Game_Gesture\Tensorflow\workspace\images\collectedimages\hold\hold.ddf7a212-6ed6-11ec-a398-f8ac65ab7f15.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hold</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>471</xmin>
+			<ymin>242</ymin>
+			<xmax>585</xmax>
+			<ymax>385</ymax>
+		</bndbox>
+	</object>
+</annotation>

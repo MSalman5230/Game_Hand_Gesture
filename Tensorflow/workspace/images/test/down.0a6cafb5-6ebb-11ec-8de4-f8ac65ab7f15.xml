@@ -1,0 +1,26 @@
+<annotation>
+	<folder>down</folder>
+	<filename>down.0a6cafb5-6ebb-11ec-8de4-f8ac65ab7f15.jpg</filename>
+	<path>C:\Projects\JupyterNotebook\Game_Gesture\Tensorflow\workspace\images\collectedimages\down\down.0a6cafb5-6ebb-11ec-8de4-f8ac65ab7f15.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>down</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>138</xmin>
+			<ymin>139</ymin>
+			<xmax>289</xmax>
+			<ymax>400</ymax>
+		</bndbox>
+	</object>
+</annotation>

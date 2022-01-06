@@ -1,0 +1,26 @@
+<annotation>
+	<folder>up</folder>
+	<filename>up.dae5f034-6eba-11ec-ad49-f8ac65ab7f15.jpg</filename>
+	<path>C:\Projects\JupyterNotebook\Game_Gesture\Tensorflow\workspace\images\collectedimages\up\up.dae5f034-6eba-11ec-ad49-f8ac65ab7f15.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>up</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>129</xmin>
+			<ymin>104</ymin>
+			<xmax>235</xmax>
+			<ymax>315</ymax>
+		</bndbox>
+	</object>
+</annotation>
